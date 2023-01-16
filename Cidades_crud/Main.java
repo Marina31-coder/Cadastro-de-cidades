@@ -1,8 +1,8 @@
-package br.com.ada.crud;
+package Cidades_crud;
 
-import br.com.ada.crud.controller.CidadeArmazenamentoTipo;
-import br.com.ada.crud.controller.CidadeControllerFactory;
-import br.com.ada.crud.view.CidadeView;
+import Cidades_crud.view.PessoaView;
+import Cidades_crud.controller.PessoaArmazenamentoTipo;
+import Cidades_crud.controller.PessoaControllerFactory;
 
 import java.util.Scanner;
 
